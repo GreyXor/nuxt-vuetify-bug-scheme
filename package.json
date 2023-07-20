@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"nuxt": "^3.6.5",
+		"vuetify-nuxt-module": "^0.4.11"
+	}
+}
