@@ -1,8 +1,8 @@
 <template>
   <v-app>
+    <v-navigation-drawer />
   </v-app>
 </template>
-
 <script setup lang="ts">
 import { useTheme } from "vuetify";
 const theme = useTheme();
